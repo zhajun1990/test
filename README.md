@@ -1,2 +1,2 @@
 # test
-this is a description testing
+this is a test repository kiteAB's video.
